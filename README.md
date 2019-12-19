@@ -8,6 +8,6 @@ python Sudoku.py
 ```
 instead of
 ```python
-python Sudoku.py
+python3 Sudoku.py
 ```
 Because some attributes of turtle library are missing in python3
